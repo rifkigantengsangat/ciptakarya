@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@emailjs/browser": "^3.4.0",
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@splidejs/splide": "^3.6.9",
+    "sweetalert2": "^11.3.6",
+    "swiper": "^7.4.1"
+  }
+}
